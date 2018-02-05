@@ -52,48 +52,48 @@ header .titel{
 }
 /*laptop*/
 @media (max-width: 1110px){
-	.wrapper{
-		width: 100%;
-		margin: 0;
-	}	
-	.memory{
-		width: 32%;
-	}
-	#logga{
-		width: 15%;
-	}
+.wrapper{
+	width: 100%;
+	margin: 0;
+}	
+.memory{
+	width: 32%;
+}
+#logga{
+	width: 15%;
+}
 }
 /*surfplatta*/
 @media (max-width: 780px){
-	.wrapper{
-		width: 100%;
-		margin: 0;
-	}	
-	.memory{
-		width: 49%;
-	}
-	#logga{
-		width: 20%;
-	}
+.wrapper{
+	width: 100%;
+	margin: 0;
+}	
+.memory{
+	width: 49%;
+}
+#logga{
+	width: 20%;
+}
 }
 /* mobil*/
 @media(max-width: 480px){
-	.wrapper{
-		width: 100%;
-		margin: 0;
-	}	
-	header{
-		margin: 0;
-		width: 100%;
-		padding: 0;
-	}	
-	header h1.titel{
-		margin: 0;
-	}
-	.memory{
-		width: 100%;
-	}
-	#logga{
-		width: 25%;
-	}
+.wrapper{
+	width: 100%;
+	margin: 0;
+}	
+header{
+	margin: 0;
+	width: 100%;
+	padding: 0;
+}	
+header h1.titel{
+	margin: 0;
+}
+.memory{
+	width: 100%;
+}
+#logga{
+	width: 25%;
+}
 } 
